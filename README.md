@@ -5,3 +5,8 @@ git add
 git commit -m "v12 eklendi"
 git push
 jeawen.py
+pkg update -y
+pkg upgrade -y 
+pkg install git -y
+pkg install python -y 
+python jeawen.py
